@@ -1,0 +1,3 @@
+/home/arecles/3DModelProjection/build/CMakeFiles/rebuild_cache.dir
+/home/arecles/3DModelProjection/build/CMakeFiles/edit_cache.dir
+/home/arecles/3DModelProjection/build/CMakeFiles/main.dir
