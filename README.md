@@ -1,7 +1,7 @@
 # CG Proyecto Final: Proyecto de Reconocimiento y Superposición de Manos en 3D 
 
 ## Descripción del Proyecto
-Este laboratorio tiene como objetivo superponer modelos 3D de manos en imágenes y videos reales utilizando técnicas avanzadas de visión por computadora. Se basa en la calibración precisa de cámaras y el uso de patrones de tablero de ajedrez para garantizar la correcta alineación del modelo 3D en el entorno visual.
+Este proyecto tiene como objetivo superponer modelos 3D en imágenes y videos reales utilizando técnicas avanzadas de visión por computadora. Se basa en la calibración precisa de cámaras y el uso de patrones de tablero de ajedrez para garantizar la correcta alineación del modelo 3D en el entorno visual.
 
 ### Principales Funcionalidades
 1. **Carga de modelos 3D:** Importación de archivos STL para procesar geometrías tridimensionales.
